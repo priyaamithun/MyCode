@@ -1,5 +1,5 @@
 package com.SpringAOP.Models;
-
+// new Spring Aspect project//
 public class Circle {
 	private String name;
 
